@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">" Test1"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_credentials">Credentials</string>
+    <string name="title_activity_infopage">Infopage</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="title_activity_busespage">Busespage</string>
+    <string name="title_activity_outpage">Outpage</string>
+    <string name="title_activity_report">Report</string>
+        <string name="title_activity_list_items">list_items</string>
+        <string name="title_activity_listview_layout">listview_layout</string>
+        <string name="title_activity_userpage">userpage</string>
+        <string name="title_activity_outpage_layout">outpage_layout</string>
+
+</resources>

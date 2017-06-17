@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="user1.myproject.com.test1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Credentials"
+            android:label="@string/title_activity_credentials" >
+        </activity>
+        <activity
+            android:name=".Infopage"
+            android:label="@string/title_activity_infopage" >
+        </activity>
+        <activity
+            android:name=".Homepage"
+            android:label="@string/title_activity_homepage" >
+        </activity>
+        <activity
+            android:name=".Busespage"
+            android:label="@string/title_activity_busespage" >
+        </activity>
+        <activity
+            android:name=".Outpage"
+            android:label="@string/title_activity_outpage" >
+        </activity>
+        <activity
+            android:name=".Report"
+            android:label="@string/title_activity_report" >
+        </activity>
+        <activity
+            android:name=".list_items"
+            android:label="@string/title_activity_list_items" >
+        </activity>
+        <activity
+            android:name=".listview_layout"
+            android:label="@string/title_activity_listview_layout" >
+        </activity>
+        <activity
+            android:name=".userpage"
+            android:label="@string/title_activity_userpage" >
+        </activity>
+        <activity
+            android:name=".outpage_layout"
+            android:label="@string/title_activity_outpage_layout" >
+        </activity>
+    </application>
+
+</manifest>
